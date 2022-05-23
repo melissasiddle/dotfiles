@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = melissa.sid98@gmail.com
+	name = melissa siddle
